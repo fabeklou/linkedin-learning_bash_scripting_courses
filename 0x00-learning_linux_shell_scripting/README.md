@@ -1,0 +1,1 @@
+#  This is an introductory course on bash scripting
